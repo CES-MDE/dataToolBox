@@ -5,7 +5,6 @@ import plotly.express as px
 import plotly.graph_objects as go
 import pandas as pd
 import geopandas as gpd
-import folium
 import logging
 import shutil
 import warnings

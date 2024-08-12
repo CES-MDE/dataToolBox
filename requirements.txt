@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+black
+scipy
+geopandas
+seaborn
+xlsxwriter
+folium
+pyproj
+scikit-learn
+openpyxl
+plotly
+unidecode
+mysql-connector-python 
+sqlalchemy
+fastparquet

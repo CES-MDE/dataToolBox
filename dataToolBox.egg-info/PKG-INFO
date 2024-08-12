@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: dataToolBox
+Version: 0.1
+Summary: Librairie pour manipuler des données sous formes de dataframe.
+Home-page: https://github.com/CES-MDE/dataToolBox
+Author: Quentin Samudio
+Author-email: quentin.samudio@minesparis.psl.eu
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# dataToolBox
+Librairie pour manipuler des donnÃ©es sous formes de dataframe. 
